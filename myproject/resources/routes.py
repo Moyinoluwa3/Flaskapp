@@ -1,6 +1,5 @@
-#print("Movie")
+
 from .movies import MoviesApi, MovieApi
-#rint("Movie 2")
 from ..services.forgetpassword import Changepassword,ForgetPassword
 from .auth import SignupApi, LoginApi
  
